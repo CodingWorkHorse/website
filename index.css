@@ -71,7 +71,7 @@
 	padding: 10px;
 	letter-spacing: 5px;
 	margin-top: 5px;
-	padding-top:20px;
+    padding-top: 20px;
 }
 
 .socialmedialinks{
@@ -84,7 +84,7 @@
     font-size: 30px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
     padding-top: 20px;
     margin-top: 15px;
     letter-spacing: 2px;
@@ -211,8 +211,17 @@
 }
     
 .socialmedialinks a i{
-    margin-top: 45px;
+    margin-top: 30px;
     font-size: 40px;
+}
+
+
+.header h1{
+    font-size: 58px;
+}
+
+.aboutme{
+    padding-top: 25px;
 }
 
 }
